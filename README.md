@@ -1,8 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1d4ed8,100:22c55e&text=Amarjit%20Bharath&fontAlignY=38&desc=Building%20Software&descAlignY=58&fontColor=ffffff&descColor=0f172a)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=0F172A&center=true&vCenter=true&width=900&lines=Modernising+legacy+systems.;Building+scalable+backend+services.;Solving+complex+production+problems.;Shipping+commercially+useful+software.)](https://github.com/amarjit)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1d4ed8,100:22c55e&text=Amarjit%20Bharath&fontAlignY=38&desc=Building%20Software&descAlignY=58&fontColor=ffffff&descColor=E5F4FF)
 
 </div>
 
@@ -130,30 +128,7 @@ Since then I have worked on backend platforms, university systems, e-commerce re
   <img src="https://img.shields.io/badge/Specialist-SEO%20%7C%20Accessibility%20%7C%20Hardware%20%7C%20Reverse%20Engineering-7c3aed?style=flat-square" alt="Specialist" />
   <img src="https://img.shields.io/badge/Domain-E--commerce%20%7C%20Public%20Sector%20%7C%20Ops-854d0e?style=flat-square" alt="Domain" />
 </p>
-
-## What I actually end up building
-
-- APIs, backend platforms, and the systems behind the shiny parts
-- Legacy rewrites where the first job is figuring out what can safely stay and what has to go
-- E-commerce, ops tooling, and integrations that have to work in the real world, not just in a diagram
-- Security, fraud, performance, and production fixes when something important is wobbling
-- Weirdly specific software involving labels, scanners, printers, weight machines, COM ports, and other fun surprises
-
-## How I tend to work
-
-- I like understanding the real shape of a system before charging in with a rewrite
-- I usually trust clear code and direct fixes more than clever architecture theatre
-- I am happy in the weeds: logs, edge cases, broken workflows, awkward handovers, and all
-- I care a lot about making software easier to run, easier to change, and less annoying for the next person
-- If there is a messy but important problem in the room, I will probably drift toward it
-
-## Current rabbit holes
-
-- Rust and Node.js for CLI tools, backend services, and desktop ideas
-- Homelab and network tinkering for learning, testing, and breaking things safely at home
-- Strategy games, family time, and the occasional game of basketball when I manage to leave the keyboard alone
-
-## Currently Reading
+## Current Reading
 
 <table>
   <tr>
