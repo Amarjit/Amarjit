@@ -3,6 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1d4ed8,100:22c55e&text=Amarjit%20Bharath&fontAlignY=38&desc=Building%20Software&descAlignY=58&fontColor=ffffff&descColor=E5F4FF)
 
 </div>
+
 ```
 												_                                                 
      ___           )))           ___           ((_          -`^'-          |||           '*`      
