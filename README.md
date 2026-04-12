@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1d4ed8,100:22c55e&text=Amarjit%20Bharath&fontAlignY=38&desc=Building%20Software&descAlignY=58&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1d4ed8,100:22c55e&text=Amarjit%20Bharath&fontAlignY=38&desc=Building%20Software&descAlignY=58&fontColor=ffffff&descColor=0f172a)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=E5F4FF&center=true&vCenter=true&width=900&lines=Modernising+legacy+systems.;Building+scalable+backend+services.;Solving+complex+production+problems.;Shipping+commercially+useful+software.)](https://github.com/amarjit)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=0F172A&center=true&vCenter=true&width=900&lines=Modernising+legacy+systems.;Building+scalable+backend+services.;Solving+complex+production+problems.;Shipping+commercially+useful+software.)](https://github.com/amarjit)
 
 </div>
 
