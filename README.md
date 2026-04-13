@@ -126,6 +126,7 @@ Since then I have worked on backend platforms, university systems, e-commerce re
   <img src="https://img.shields.io/badge/Specialist-SEO%20%7C%20Accessibility%20%7C%20Hardware%20%7C%20Reverse%20Engineering-7c3aed?style=flat-square" alt="Specialist" />
   <img src="https://img.shields.io/badge/Domain-E--commerce%20%7C%20Public%20Sector%20%7C%20Ops-854d0e?style=flat-square" alt="Domain" />
 </p>
+
 ## Current Reading
 
 <table>
