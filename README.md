@@ -151,8 +151,3 @@ Since then I have worked on backend platforms, university systems, e-commerce re
   </tr>
 </table>
 
-## Links
-
-[![Email](https://img.shields.io/badge/Email-hi%40amarjit.uk-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@amarjit.uk)
-[![GitHub](https://img.shields.io/badge/GitHub-amarjit-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amarjit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amarjitbharath-0A66C2?style=for-the-badge)](https://linkedin.com/in/amarjitbharath)
