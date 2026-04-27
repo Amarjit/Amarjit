@@ -1,8 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1d4ed8,100:22c55e&text=AMARJIT%20BHARATH&fontAlignY=38&desc=Building%20Software&descAlignY=58&fontColor=ffffff&descColor=E5F4FF)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&text=AMARJIT%20BHARATH&animation=twinkling&textBg=false&rotate=0&fontColor=000&fontAlign=50&desc=SENIOR%20SOFTWARE%20ENGINEER)
 
 </div>
+
+## About me
 
 ```
 												_                                                 
@@ -16,16 +18,12 @@ I got into this early by building things from scratch, including my own e-commer
 
 Since then I have worked on backend platforms, university systems, e-commerce rebuilds, security and fraud-related work, hardware-linked software, and the occasional “this really should not still be running like this” rescue job. I like messy systems, useful software, and getting things into a state where people can stop guessing and start shipping.
 
-## Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,linux,html,css,js,apache,laravel,github,git,jquery,postgresql,jira,postman,facebook,drupal,wordpress,shopify,react,graphql,bootstrap,aws,windows" alt="Most used technology stack" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Likes-messy%20systems-0f172a?style=flat-square" alt="Likes messy systems" />
   <img src="https://img.shields.io/badge/Builds-backend%20things-1d4ed8?style=flat-square" alt="Builds backend things" />
   <img src="https://img.shields.io/badge/Also-hardware%20oddities-16a34a?style=flat-square" alt="Hardware oddities" />
-  <img src="https://img.shields.io/badge/Currently-Rust%20%2B%20Node.js-334155?style=flat-square" alt="Currently Rust and Node.js" />
+  <img src="https://img.shields.io/badge/Currently-Rust%20and%20Node.js-334155?style=flat-square" alt="Currently PHP and Rust" />
 </p>
 
 <p>
@@ -34,7 +32,7 @@ Since then I have worked on backend platforms, university systems, e-commerce re
   <img src="https://img.shields.io/badge/JSON-0f172a?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge" alt="Photoshop" />
   <img src="https://img.shields.io/badge/LAMP-0f172a?style=for-the-badge" alt="LAMP" />
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
   <img src="https://img.shields.io/badge/Lumen-E74430?style=for-the-badge" alt="Lumen" />
@@ -62,7 +60,7 @@ Since then I have worked on backend platforms, university systems, e-commerce re
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111" alt="React" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Twig-BACF29?style=for-the-badge&logo=twig&logoColor=111111" alt="Twig" />
+  <img src="https://img.shields.io/badge/Twig-BACF29?style=for-the-badge" alt="Twig" />
   <img src="https://img.shields.io/badge/FormStack-0f172a?style=for-the-badge" alt="FormStack" />
   <img src="https://img.shields.io/badge/Microsoft%20Dynamics%20CRM-0f172a?style=for-the-badge" alt="Microsoft Dynamics CRM" />
   <img src="https://img.shields.io/badge/LaunchDarkly-4050FF?style=for-the-badge" alt="LaunchDarkly" />
@@ -95,7 +93,7 @@ Since then I have worked on backend platforms, university systems, e-commerce re
   <img src="https://img.shields.io/badge/Google%20Search%20Index-0f172a?style=for-the-badge" alt="Google Search Index" />
   <img src="https://img.shields.io/badge/Apache-CA2131?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/BuddyWorks-0f172a?style=for-the-badge" alt="BuddyWorks" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -106,7 +104,7 @@ Since then I have worked on backend platforms, university systems, e-commerce re
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge" alt="Windows" />
   <img src="https://img.shields.io/badge/Rackspace-0f172a?style=for-the-badge" alt="Rackspace" />
   <img src="https://img.shields.io/badge/DNS-0f172a?style=for-the-badge" alt="DNS" />
   <img src="https://img.shields.io/badge/Progress%204GL-0f172a?style=for-the-badge" alt="Progress 4GL" />
@@ -119,37 +117,36 @@ Since then I have worked on backend platforms, university systems, e-commerce re
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Methods-OOP%20%7C%20SOLID%20%7C%20MVC%20%7C%20Microservices-0f172a?style=flat-square" alt="Methods" />
-  <img src="https://img.shields.io/badge/Delivery-Agile%20%7C%20Scrum%20%7C%20Kanban%20%7C%20CI%2FCD-334155?style=flat-square" alt="Delivery" />
-  <img src="https://img.shields.io/badge/Testing-Unit%20%7C%20Integration%20%7C%20UAT%20%7C%20Browser-1d4ed8?style=flat-square" alt="Testing" />
-  <img src="https://img.shields.io/badge/Leadership-Docs%20%7C%20Architecture%20%7C%20Rescue%20%7C%20Training-16a34a?style=flat-square" alt="Leadership" />
-  <img src="https://img.shields.io/badge/Specialist-SEO%20%7C%20Accessibility%20%7C%20Hardware%20%7C%20Reverse%20Engineering-7c3aed?style=flat-square" alt="Specialist" />
-  <img src="https://img.shields.io/badge/Domain-E--commerce%20%7C%20Public%20Sector%20%7C%20Ops-854d0e?style=flat-square" alt="Domain" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,laravel,postgresql,jira" alt="Additional technology stack" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Methods-OOP%20SOLID%20MVC%20Microservices-0f172a?style=flat-square" alt="Methods" />
+  <img src="https://img.shields.io/badge/Delivery-Agile%20Scrum%20Kanban%20CICD-334155?style=flat-square" alt="Delivery" />
+  <img src="https://img.shields.io/badge/Testing-Unit%20Integration%20UAT%20Browser-1d4ed8?style=flat-square" alt="Testing" />
+  <img src="https://img.shields.io/badge/Leadership-Docs%20Architecture%20Rescue%20Training-16a34a?style=flat-square" alt="Leadership" />
+  <img src="https://img.shields.io/badge/Specialist-SEO%20Accessibility%20Hardware%20Reverse%20Engineering-7c3aed?style=flat-square" alt="Specialist" />
+  <img src="https://img.shields.io/badge/Domain-Ecommerce%20Public%20Sector%20Ops-854d0e?style=flat-square" alt="Domain" />
+</p>
 ## Current Reading
 
 <table>
   <tr>
     <td align="center" width="25%">
       <img src="https://covers.openlibrary.org/b/olid/OL26740375M-L.jpg" alt="The Rust Programming Language" width="140" /><br />
-      <strong>The Rust Programming Language</strong><br />
-      Reliable systems, ownership, and getting sharper with lower-level tooling.
+      <strong>The Rust Programming Language</strong>
     </td>
     <td align="center" width="25%">
       <img src="https://covers.openlibrary.org/b/olid/OL24982481M-L.jpg" alt="The Lean Startup" width="140" /><br />
-      <strong>The Lean Startup</strong><br />
-      Test ideas early, learn from reality, and avoid scaling the wrong thing.
+      <strong>The Lean Startup</strong>
     </td>
     <td align="center" width="25%">
       <img src="https://covers.openlibrary.org/b/olid/OL28004111M-L.jpg" alt="Testing Business Ideas" width="140" /><br />
-      <strong>Testing Business Ideas</strong><br />
-      Small experiments, lower risk, and better signals before bigger bets.
+      <strong>Testing Business Ideas</strong>
     </td>
     <td align="center" width="25%">
       <img src="https://covers.openlibrary.org/b/isbn/9781999023003-L.jpg" alt="Obviously Awesome" width="140" /><br />
-      <strong>Obviously Awesome</strong><br />
-      Clear positioning so useful products make sense quickly.
+      <strong>Obviously Awesome</strong>
     </td>
   </tr>
 </table>
@@ -158,4 +155,4 @@ Since then I have worked on backend platforms, university systems, e-commerce re
 
 [![Email](https://img.shields.io/badge/Email-hi%40amarjit.uk-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@amarjit.uk)
 [![GitHub](https://img.shields.io/badge/GitHub-amarjit-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amarjit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amarjitbharath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amarjitbharath)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amarjitbharath-0A66C2?style=for-the-badge)](https://linkedin.com/in/amarjitbharath)
