@@ -13,7 +13,7 @@ Since then I have worked on backend platforms, university systems, e-commerce re
 <p>
   <img src="https://img.shields.io/badge/Likes-messy%20systems-0f172a?style=flat-square" alt="Likes messy systems" />
   <img src="https://img.shields.io/badge/Builds-backend%20things-1d4ed8?style=flat-square" alt="Builds backend things" />
-  <img src="https://img.shields.io/badge/Currently-Rust%20and%20Node.js-334155?style=flat-square" alt="Currently PHP and Rust" />
+  <img src="https://img.shields.io/badge/Currently-PHP%20and%20Rust-334155?style=flat-square" alt="Currently PHP and Rust" />
 </p>
 
 <p>
