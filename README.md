@@ -4,23 +4,14 @@
 
 </div>
 
-```
-												_                                                 
-     ___           )))           ___           ((_          -`^'-          |||           '*`      
-    (o o)         (o o)         (o o)         (o o)         (o o)         (o o)         (o o)     
-```
-
 I tend to end up in the kind of work that is half engineering and half untangling reality: old systems that still matter, startups moving faster than their tooling, and projects where somebody needs to work out what is actually going on before anything gets better.
 
 I got into this early by building things from scratch, including my own e-commerce platform, the admin behind it, the analytics, the fulfilment flow, and even parts of the packaging and promo side around it. That gave me a lasting bias toward practical systems, clear thinking, and fixing the part that is genuinely hurting first.
 
 Since then I have worked on backend platforms, university systems, e-commerce rebuilds, security and fraud-related work, hardware-linked software, and the occasional “this really should not still be running like this” rescue job. I like messy systems, useful software, and getting things into a state where people can stop guessing and start shipping.
-
-
 <p>
   <img src="https://img.shields.io/badge/Likes-messy%20systems-0f172a?style=flat-square" alt="Likes messy systems" />
   <img src="https://img.shields.io/badge/Builds-backend%20things-1d4ed8?style=flat-square" alt="Builds backend things" />
-  <img src="https://img.shields.io/badge/Also-hardware%20oddities-16a34a?style=flat-square" alt="Hardware oddities" />
   <img src="https://img.shields.io/badge/Currently-Rust%20and%20Node.js-334155?style=flat-square" alt="Currently PHP and Rust" />
 </p>
 
