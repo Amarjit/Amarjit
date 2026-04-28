@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&text=AMARJIT%20BHARATH&animation=twinkling&textBg=false&rotate=0&fontColor=000&fontAlign=50&desc=SENIOR%20SOFTWARE%20ENGINEER)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&stroke=E5E7EB&text=AMARJIT%20BHARATH&animation=twinkling&textBg=false&rotate=0&fontColor=000&fontAlign=50&desc=SENIOR%20SOFTWARE%20ENGINEER)
 
 </div>
 
