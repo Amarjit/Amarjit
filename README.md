@@ -114,7 +114,7 @@ Since then I have worked on backend platforms, university systems, e-commerce re
   <img src="https://img.shields.io/badge/Delivery-Agile%20Scrum%20Kanban%20CICD-334155?style=flat-square" alt="Delivery" />
   <img src="https://img.shields.io/badge/Testing-Unit%20Integration%20UAT%20Browser-1d4ed8?style=flat-square" alt="Testing" />
   <img src="https://img.shields.io/badge/Leadership-Docs%20Architecture%20Rescue%20Training-16a34a?style=flat-square" alt="Leadership" />
-  <img src="https://img.shields.io/badge/Specialist-SEO%20Accessibility%20Hardware%20Reverse%20Engineering-7c3aed?style=flat-square" alt="Specialist" />
+  <img src="https://img.shields.io/badge/Specialist-SEO%20Accessibility%20Reverse%20Engineering-7c3aed?style=flat-square" alt="Other" />
   <img src="https://img.shields.io/badge/Domain-Ecommerce%20Public%20Sector%20Ops-854d0e?style=flat-square" alt="Domain" />
 </p>
  
