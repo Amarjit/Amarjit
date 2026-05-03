@@ -4,11 +4,14 @@
 
 </div>
 
+# AMARJIT BHARATH
+### Senior Software Engineer
+
 I work on software systems that need to function reliably in the real world — where requirements change, legacy code exists, and clarity matters.
 
-I got into this early by building things from scratch, including my own e-commerce platform, the admin behind it, the analytics, the fulfilment flow, and even parts of the packaging and promo side around it. That gave me a lasting bias toward practical systems, clear thinking, and fixing the part that is genuinely hurting first.
+Most of my serious backend work lives in private/client systems: production platforms, integrations, e-commerce, workflow automation, legacy modernisation, security fixes, and operational tooling.
 
-Since then I have worked on backend platforms, university systems, e-commerce rebuilds, security and fraud-related work, hardware-linked software, and the occasional “this really should not still be running like this” rescue job. I like messy systems, useful software, and getting things into a state where people can stop guessing and start shipping.
+Public GitHub is where I keep smaller tools, experiments, notes, and the odd thing I made because it annoyed me enough.
 
 <p>
   <img src="https://img.shields.io/badge/Likes-messy%20systems-0f172a?style=flat-square" alt="Likes messy systems" />
