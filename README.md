@@ -20,7 +20,7 @@ I work on software that has to hold up in the **real world** — where requireme
 
 Most of my serious backend work lives in private client systems: production platforms, integrations, e-commerce, workflow automation, **legacy modernisation**, security fixes, and the unglamorous operational tooling that keeps things running.
 
-Public GitHub is where the smaller stuff lives — tools, experiments, notes, and the occasional thing I built purely because it annoyed me enough.
+Public GitHub is where the smaller stuff lives — tools, experiments, notes, and the occasional thing I built purely because it annoyed me enough. [Cleanup your Github graveyard](https://amarjit.uk/writing/my-github-was-a-graveyard)
 
 <p>
   <img src="https://img.shields.io/badge/Likes-messy%20systems-0F172A?style=flat-square" alt="Likes messy systems" />
